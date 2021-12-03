@@ -1,4 +1,4 @@
-# Task manager
+# Resource monitor
 
 A task manager/resource monitor version for the web using websockets.
 
